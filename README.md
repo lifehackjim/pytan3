@@ -6,10 +6,12 @@ license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit
 Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/tanium/pytan3)
 [![Code Style: Black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/ambv/black)
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
+[![Known Vulnerabilities](https://snyk.io/test/github/tanium/pytan3/badge.svg?targetFile=requirements.txt)](https://snyk.io/test/github/tanium/pytan3?targetFile=requirements.txt)
+[![codecov](https://codecov.io/gh/tanium/pytan3/branch/master/graph/badge.svg)](https://codecov.io/gh/tanium/pytan3)
 
 # PyTan: Python API for the Tanium Platform
 
-PyTan is an all-in-one API wrapper for [Tanium](https://www.tanium.com) and is comprised of multiple modular layers that makes it easy to extend or add new functionality.
+PyTan is an all-in-one API wrapper for [Tanium](https://www.tanium.com) and is comprised of multiple modular layers that make it easy to extend or add new functionality.
 
 Since the inception of PyTan in October of 2014 it has grown in scope, complexity, and adoption. This version marks the fourth redesign, and it has vast improvements over the previous versions.
 

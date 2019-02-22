@@ -138,7 +138,8 @@ html_theme_options = {
     "navbar_links": [
         # ("Examples", "examples"),
         # ("Link", "http://example.com", True),
-        ("GitHub Repository", pkg.version.__url__, True)
+        ("GitHub Repository", pkg.version.__url__, True),
+        ("Tanium", "https://tanium.com", True),
     ],
     # Render the next and previous page links in navbar. (Default: true)
     "navbar_sidebarrel": True,

@@ -1,0 +1,3 @@
+ignore:
+  - pytan3/tests/*
+  - pytan3/api_objects/build_objects/*
