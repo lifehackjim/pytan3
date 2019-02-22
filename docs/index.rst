@@ -10,7 +10,7 @@
 PyTan: Python API for the Tanium Platform
 #################################################
 
-PyTan is an all-in-one API wrapper for `Tanium <https://www.tanium.com>`_ and is comprised of :ref:`multiple modular layers<API Layers>` that makes it easy to extend or add new functionality.
+PyTan is an all-in-one API wrapper for `Tanium <https://www.tanium.com>`_ and is comprised of :ref:`multiple modular layers<API Layers>` that make it easy to extend or add new functionality.
 
 Since the inception of PyTan in :ref:`October of 2014 <Birth>` it has grown in scope, complexity, and adoption. This version marks the fourth redesign, and it has vast improvements over the previous versions.
 
