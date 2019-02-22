@@ -65,7 +65,8 @@ docs_linkcheck:
 	cat docs/_build/linkcheck/output.txt
 
 build:
-	$(MAKE) lint
+	$(MAKE) flake
+	$(MAKE) black
 	$(MAKE) clean_dist
 
 	pipenv run pip install --quiet --upgrade --requirement requirements-build.txt
@@ -112,6 +113,6 @@ git_tag:
 	@echo git push --tags
 
 publish:
-	$(MAKE) git_check
 	$(MAKE) build
+	$(MAKE) git_check
 	pipenv run python setup.py upload
