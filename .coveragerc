@@ -1,0 +1,4 @@
+[run]
+omit =
+    pytan3/tests/*
+    pytan3/api/objects/build_objects/*

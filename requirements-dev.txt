@@ -1,0 +1,9 @@
+codecov
+httpretty
+input_mocker
+pipenv
+pytest
+pytest-cov
+pytest-httpbin
+pytest-lazy-fixture
+pytest-mock

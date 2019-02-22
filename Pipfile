@@ -1,0 +1,19 @@
+[[source]]
+url = "https://pypi.org/simple/"
+verify_ssl = true
+name = "pypi"
+
+[dev-packages]
+"codecov" = "*"
+"httpbin" = ">=0.7.0"
+"httpretty" = "*"
+"input_mocker" = "*"
+"pytest" = ">=2.8.0"
+"pytest-cov" = "*"
+"pytest-httpbin" = ">=0.0.7"
+"pytest-lazy-fixture" = "*"
+"pytest-mock" = "*"
+
+[packages]
+e1839a8 = {path = ".",editable = true}
+sphinx = "*"

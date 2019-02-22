@@ -1,0 +1,9 @@
+cert_human
+colorama
+humanfriendly
+pathlib2; python_version < '3.0'
+privy
+requests[security,socks]
+six>=1.12.0
+xmltodict
+python-dotenv
