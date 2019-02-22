@@ -5,6 +5,7 @@
 |made-with-python|
 |code-black|
 |vulnerabilities|
+|codecov|
 
 PyTan: Python API for the Tanium Platform
 #################################################
@@ -63,3 +64,5 @@ Indices and tables
 .. |vulnerabilities| image:: https://snyk.io/test/github/tanium/pytan3/badge.svg?targetFile=requirements.txt
    :target: https://snyk.io/test/github/tanium/pytan3?targetFile=requirements.txt
 
+.. |codecov| image:: https://codecov.io/gh/tanium/pytan3/branch/master/graph/badge.svg
+  :target: https://codecov.io/gh/tanium/pytan3
