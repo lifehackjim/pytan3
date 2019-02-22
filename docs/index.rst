@@ -3,6 +3,8 @@
 |MIT license|
 |Open Source? Yes!|
 |made-with-python|
+|code-black|
+|vulnerabilities|
 
 PyTan: Python API for the Tanium Platform
 #################################################
@@ -54,3 +56,10 @@ Indices and tables
 
 .. |made-with-python| image:: https://img.shields.io/badge/Made%20with-Python-1f425f.svg
    :target: https://www.python.org/
+
+.. |code-black| image:: https://img.shields.io/badge/code%20style-black-000000.svg
+   :target: https://github.com/ambv/black
+
+.. |vulnerabilities| image:: https://snyk.io/test/github/tanium/pytan3/badge.svg?targetFile=requirements.txt
+   :target: https://snyk.io/test/github/tanium/pytan3?targetFile=requirements.txt
+
