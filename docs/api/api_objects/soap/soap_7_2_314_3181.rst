@@ -1,0 +1,9 @@
+SOAP API Object Module for Version 7.2.314.3181
+#####################################################################################
+
+.. automodule:: pytan3.api_objects.soap_7_2_314_3181
+    :members:
+    :undoc-members:
+    :show-inheritance:
+    :private-members:
+    :member-order: bysource
